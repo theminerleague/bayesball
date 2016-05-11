@@ -1,7 +1,0 @@
----
-name: "Bayesball"
-navbar:
-  title: "Bayesball"
-  left:
-  - text: "Home"
-    href: index.html
